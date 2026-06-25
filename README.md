@@ -36,3 +36,7 @@ The project successfully identified important factors influencing liver cirrhosi
 - Larger datasets
 - Advanced machine learning models
 - Real-time clinical deployment
+
+## Full Report
+You can download and view the complete project report here:
+[liver_cirrhosis_final_report.pdf](./liver_cirrhosis_final_report.pdf)
